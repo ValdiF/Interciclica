@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Página web dedicada al estudio del pensamiento, relacionado con menores de 0 a 6 años de edad.">
+    <meta name="keywords" content="pensamiento, niños 0 a 5 años, actividades, consejos, desarrollo, tipos de pensamiento, pensamiento deductivo, pensamiento inductivo, pensamiento crítico, pensamiento reflexivo, pensamiento interrogativo, pensamiento creativo, pensamiento lógico, pensamiento analítico">
+    <link rel="stylesheet" href="../css/estiloPaginas.css" type="text/css">
+    <link rel="icon" href="../favicon/favicon.ico" id="icono" type="image/x-icon" >
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
+	 <!-- FONTS -->
+     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recursos sobre el pensamiento</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg bg-dark navbar-dark" id="mainNav">
+        <div class="container px-4 px-lg-5">
+            <a class="navbar-brand" href="../index.html"><i class="fas fa-home"> Inicio</i></a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+              MENU<i class="fas fa-bars"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                  <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="pensamiento.html"> El Pensamiento: ¿qué es?</a></li>
+                  <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="tipologia.html"> Tipologia</a></li>
+                  <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="actividades.html"> Actividades</a></li>
+                  <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="recursos.html"> Recursos</a></li>
+                  <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="desarrollo.html"> Desarrollo</a></li>
+                  <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contacto.html"><i class="fas fa-envelope"> ¿Quiénes somos?</i></a></li> 
+                </ul>
+          </div>
+        </div>
+    </nav>
+    <header style="background:url(../imagenes/recursos.png)no-repeat center center fixed;background-size:cover;">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-12 text-center">
+                    <div class="site-heading">
+                        <div class="summary">
+                            <h1 style="color:#000000"><strong> Consejos para estimular el desarrollo del pensamiento en los niños </strong> </h1>
+                            <span class="subheading" style="color:#000000;"> <strong> Algunos de muchos consejos que pueden ser útiles para desarrollar el pensamiento en los mas pequeños son los siguientes: </strong></span>
+                            <div class="fecha">17/02/2022</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="margen">
+            <div class="principal">
+                <div class="contenido">
+                    <ul>
+                        <li>
+                            <b>No repitas siempre las mismas actividades.</b>
+                            <br>
+                            Habrá que estar pendientes para que las actividades no sean siempre las mismas, es importante que a veces se rompa la estructura de las dinámicas con otras cosas para hacer. Por ejemplo puedes llevar a tu niño al parque, al  zoológico, a diferentes lugares para que así adquieran más experiencias, lo que hará que el desarrollo de su pensamiento sea mucho mejor.
+                        </li>
+                    </ul>
+                </div>
+                <div class="bordeTop">
+                    <a target="_blank" href="../imagenes/consejo1.jpg">
+                            <img class="imagen" src="../imagenes/consejo1.jpg" alt="no repitas actividades">
+                    </a>
+                </div><br>
+                <div class="contenido">
+                    <ul>
+                        <li>
+                            <b>Intenta que el pequeño trabaje con ambas manos.</b> 
+                            <br>
+                         Debemos conseguir que el niño manipule los objetos con las dos manos, para que de esta forma pueda fortalecer la motricidad fina de las dos y así también el desarrollo de los dos hemisferios del cerebro.
+                        </li>
+                    </ul>
+                </div>
+                <div class="bordeTop">
+                    <a target="_blank" href="../imagenes/consejo2.jpg">
+                            <img class="imagen" src="../imagenes/consejo2.jpg" alt="que trabaje con ambas manos">
+                    </a>
+                </div><br>
+                <div class="contenido">
+                    <ul>
+                        <li>
+                            <b>Haz que tenga un amplio círculo de personas que interaccionen con él.</b> 
+                            <br>
+                            Tíos, abuelos, amigos u otras personas de su entorno. Tendremos que ofrecerles a los niños un espacio en el que puedan encontrarse con varias personas para que estas puedan ser capaces de interactuar con el niño y esto es bueno para ellos porque a parte de hacerles pasar un buen rato, ganan ciertas habilidades.
+                        </li>
+                    </ul>
+                </div>
+                <div class="bordeTop">
+                    <a target="_blank" href="../imagenes/consejo3.jpg">
+                            <img class="imagen" src="../imagenes/consejo3.jpg" alt="amplía su círculo social">
+                    </a>
+                </div><br>
+                <div class="contenido">
+                    <ul>
+                        <li>
+                            <b>No pongas límites a la imaginación del niño.</b> 
+                            <br>
+                            Es muy importante que no pongamos límites a la imaginación de los pequeños, sobretodo a la hora de decirles si algo está mal hecho o no, en esta edad el niño aún está desarrollando su imaginación y al no tener los conocimientos necesarios, pues se inventan las cosas a su manera pero no por ello hay que regañarlos.
+                            Por ejemplo: si quiere pintar las manzanas de forma triangular y verdes, o un coche con ruedas cuadradas, déjalo, no hay ningún problema por eso.
+                        </li>
+                    </ul>
+                </div>
+                <div class="bordeTop">
+                    <a target="_blank" href="../imagenes/consejo4.jpg">
+                            <img class="imagen" src="../imagenes/consejo4.jpg" alt="no limites su imaginación">
+                    </a>
+                </div><br>
+                <div class="contenido">
+                    <ul>
+                        <li><b>No decidas por ellos.</b>
+                            Otra cosa muy importante que no tenemos que hacer es decidir por ellos, hay que dejarles ser autónomos y que ellos sean los dueños de sus decisiones.                
+                        </li>
+                    </ul>
+                </div>
+                <div class="bordeTop">
+                    <a target="_blank" href="../imagenes/consejo5.jpg">
+                            <img class="imagen" src="../imagenes/consejo5.jpg" alt="dales autonomía">
+                    </a>
+                </div><br>
+                <div class="contenido">
+                    <ul>
+                        <li><b>Actividades educativas.</b>
+                            <br>
+                            Leer libros, llévalo a museos y zoológicos e, incluso, usa juegos de mesa educativos que fomenten su inteligencia en estas etapas.
+                        </li>
+                    </ul>
+                </div>
+                <div class="bordeTop">
+                    <a target="_blank" href="../imagenes/consejo6.jpg">
+                            <img class="imagen" src="../imagenes/consejo6.jpg" alt="actividades educativas">
+                    </a>
+                </div><br>
+            </div>
+        </div>
+    </main>
+
+
+    <footer class="border-top" style="background-color: #000000;">
+        <div class="container px-4 px-lg-5">
+            <div class="row gx-4 gx-lg-5 justify-content-center">
+                <div class="col-md-10 col-lg-8 col-xl-7">
+                <ul class="list-inline text-center">
+                    <br>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="https://www.facebook.com/campusfp/">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="https://twitter.com/Campus_FP">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="https://www.instagram.com/campusfp_/?hl=es">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="https://www.linkedin.com/school/campus-fp/">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="https://github.com/ValdiF/Interciclica.git">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+                </div>
+            </div>
+        </div>
+            <section class="footer-copyright text-center text-muted fst-italic">©2022 Copyright:
+                <a href="https://campusfp.es/">www.campusfp.es</a>
+            </section>
+    </footer>
+   
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
